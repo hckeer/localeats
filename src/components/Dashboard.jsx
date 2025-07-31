@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useAuth } from '../../../foohunt/src/context/AuthContext.jsx';
+
 
 const DashboardPage = () => {
     const { user, token } = useAuth();
