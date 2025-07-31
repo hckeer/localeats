@@ -1,5 +1,5 @@
 import React from 'react';
-import photo from "../../../foohunt/src/assets/150716566.jpeg"
+import photo from "../assets/sam-moqadam-yxZSAjyToP4-unsplash-scaled-1.webp"
 
 const Contact = () => {
     return (
